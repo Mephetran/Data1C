@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Data1C</string>
+    <string name="widget_name">Data1C</string>
+    <string name="widget_text">TEST</string>
+    <string name="header_text">Прокатано:</string>
+    <string name="value">пог.м.</string>
+</resources>
